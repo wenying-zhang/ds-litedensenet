@@ -17,12 +17,13 @@ licences of those corpora do not clearly permit redistributing models derived
 from them. Section 3 below regenerates the checkpoints from scratch.
 
 **Repository:** <https://github.com/wenying-zhang/ds-litedensenet>
-**Archive (v1.0.0):** <https://doi.org/10.5281/zenodo.22479137>
-Cite the version DOI of the release you used, not the repository URL, if you
-need a reference that is guaranteed to resolve to a fixed state. Zenodo also
-mints a concept DOI that always resolves to the newest version; it is shown as
-"Cite all versions" on the record page, and is the one to use if you want to
-point at the project rather than at a fixed state.
+**Archive, v1.0.0:** <https://doi.org/10.5281/zenodo.22479137>
+**Archive, all versions:** <https://doi.org/10.5281/zenodo.22479136>
+
+Cite the version DOI if you need a reference guaranteed to resolve to a fixed
+state — that is the one the manuscript cites, so a reader reaches exactly the
+code the results came from. Cite the all-versions DOI if you mean the project
+rather than a particular release; it always resolves to the newest one.
 
 ---
 
