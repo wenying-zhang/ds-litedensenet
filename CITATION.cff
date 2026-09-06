@@ -23,9 +23,8 @@ license: MIT
 repository-code: "https://github.com/wenying-zhang/ds-litedensenet"
 url: "https://github.com/wenying-zhang/ds-litedensenet"
 version: "1.0.0"
-# date-released and doi are filled in when the Zenodo archive is created.
-# date-released: "2026-09-06"
-# doi: "10.5281/zenodo.XXXXXXX"
+date-released: "2026-09-06"
+doi: "10.5281/zenodo.22479137"
 keywords:
   - chest radiography
   - lightweight convolutional networks
